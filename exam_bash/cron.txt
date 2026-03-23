@@ -1,0 +1,1 @@
+* 7-21 *  3,6,11 1-5 /home/ubuntu/exam_EGAH/exam_bash/exam.sh  >> /home/ubuntu/exam_EGAH/exam_bash/sales.txt  
